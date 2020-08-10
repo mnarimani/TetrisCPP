@@ -114,6 +114,7 @@ int PlayGame()
 	renderer.AddDrawable(scoreDrawer);
 
 	std::shared_ptr<Tetromino> currentTetromino = nullptr;
+	
 
 	// Move down every half second
 	int moveDownTimeThreshold = 400;

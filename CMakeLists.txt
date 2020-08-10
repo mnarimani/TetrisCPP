@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.16.5)
+cmake_minimum_required(VERSION 3.15.3)
 project(TetrisCPP)
 
 set(CMAKE_CXX_STANDARD 14)
